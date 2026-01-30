@@ -4,7 +4,15 @@
 
 **In BloodShot, every bullet you fire drains your life force. Balance aggression with survival as you fight through waves of enemies.**
 
-**[Play Online on itch.io](https://auvro-islam.itch.io/bloodshot)** | **Download for Windows**
+<p align="center">
+  <a href="https://auvro-islam.itch.io/bloodshot">
+    <img src="https://img.shields.io/badge/Play%20Online-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Play Online on itch.io">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://auvro-islam.itch.io/bloodshot">
+    <img src="https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows">
+  </a>
+</p>
 
 ---
 
