@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WaterBody
+    uniqueID: 4228261457
+    locked: 0
+  - name: WaterFoam
+    uniqueID: 2849014391
+    locked: 0
+  - name: Ground
+    uniqueID: 3574142541
+    locked: 0
+  - name: Building
+    uniqueID: 3911135201
+    locked: 0
+  - name: Foliage
+    uniqueID: 1516255
+    locked: 0
+  - name: Character
+    uniqueID: 4030496305
+    locked: 0
+  - name: Particle
+    uniqueID: 2286433003
+    locked: 0
+  m_RenderingLayers:
+  - Default
